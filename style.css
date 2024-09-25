@@ -1,0 +1,73 @@
+body{
+    background-color:#09939c;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 44pt;
+    color:aquamarine;
+}
+
+div#msg{
+    font-size: 15pt;
+    color: azure;
+}
+
+
+p#foto1{
+   width: 56%;
+}
+
+p#foto2{
+    width: 140%; bottom: 230px;
+    position: relative;
+}
+
+p#foto3{
+    position: relative;
+    bottom: 280px;
+    
+    
+}
+
+p#png{
+    position:relative;
+    bottom: 320px;
+    width: 81%;
+}
+
+p#png2{
+    position:relative;
+    bottom: 389px;
+    width: 119%;
+}
+
+p#png3{
+    width: 50%;  
+    position: relative;
+    bottom: 480px;
+}
+
+p#png4{
+    width: 150%; bottom: 700px;
+    position: relative;
+}
+
+div#musica{
+    font-size: 15pt;
+    color: rgb(216, 17, 17);
+    position: relative;
+    width: 100%;
+    bottom: 600px;
+}
+
+section{
+    font-size: 15pt;
+    color: azure; 
+    bottom: 500px;
+    position: relative;
+}
+
+
+
